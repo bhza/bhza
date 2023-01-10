@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br>
 <br>
@@ -68,10 +68,10 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&theme=synthwavet&count_private=true)-->
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&theme=transparent&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=transparent&count_private=true" />
 
 <hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=transparent" />
 </div>
 <div style="display: inline_block"><br>
   <div align="center">
