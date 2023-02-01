@@ -68,7 +68,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&theme=synthwavet&count_private=true)-->
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=transparent&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=dracula&count_private=true" />
 
 <hr>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=transparent" />
