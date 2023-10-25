@@ -105,8 +105,8 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
-  
+<p align="center">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhza)](https://github.com/anuraghazra/github-readme-stats) </p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+  
