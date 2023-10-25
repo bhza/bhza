@@ -68,10 +68,10 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&theme=synthwavet&count_private=true)-->
 
 <div align="center"><br>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=gruvbox&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=transparent&count_private=true" />
 
 <hr><br>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=transparent" />
 </div>
 <div style="display: inline_block"><br>
   <div align="center"><br>
