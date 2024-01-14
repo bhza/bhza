@@ -9,8 +9,8 @@
 <!--color=00bfbf-->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=4900c7&icon_color=4900c7&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=4900c7&text_color=4900c7&bg_color=0d1117" />
 </div>
 <br>
 <br>
@@ -108,6 +108,6 @@ Here are some ideas to get you started:
 <br><br><br><br>
 
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4900c7&height=120&section=footer"/>
 
   
