@@ -2,7 +2,7 @@
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4900c7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Henrique;I'm+28+years+old;I+Study+Internet+Systems+at+Fatec;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4900c7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Henrique;I'm+28+years+old;Be+Welcome!+:%29)
 <br>
 <br>
 
