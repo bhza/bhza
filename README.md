@@ -169,7 +169,21 @@ If you don't have any questions about my projects or my working methods, you can
 
 <img src="/github-metrics.svg" alt="Metrics" width="90%">
 
+<br>
+<br>
+
+--- <br>
+
+## 👥 Visit counter by countries.
+
+I found it interesting to know which people visit my profile, since it's a global platform I'd like to know. First, I thought it would be interesting to know where the viewers are coming from on the map, in case some people have difficulties with geography there is a flag counter, have fun.
+
+<br>
+
 <a href="https://info.flagcounter.com/Vsph"><img src="https://s05.flagcounter.com/map/Vsph/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+<br>
+
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
