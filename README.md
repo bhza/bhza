@@ -55,12 +55,12 @@ _I am open to new opportunities/contributions._
 
 <!--<div align="center">  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&theme=dark&show_icons=true)
+
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=4900c7&icon_color=4900c7&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&theme=shadow_red" alt="Bruno Henrique GitHub Stats">
     </td>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=4900c7&text_color=4900c7&bg_color=0d1117">
