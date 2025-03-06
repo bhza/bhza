@@ -88,7 +88,9 @@ _I am open to new opportunities/contributions._
 
 <br>
 
-### 🏆 Others :
+### 🏆 Others trophys :
+
+<br><br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -96,6 +98,13 @@ _I am open to new opportunities/contributions._
 
 ---
 
+<br><br>
+
+## 
+
+## ⭐ Github Stars
+
+<br>
 
 <img src="https://api.star-history.com/svg?repos=bhza/bhza&amp;type=Date" alt="Star History Chart">
 
