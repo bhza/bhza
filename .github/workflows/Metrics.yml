@@ -63,6 +63,11 @@ jobs:
           plugin_followup_sections: user
           plugin_followup_indepth: yes
           plugin_followup_archived: no
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           
 
           
