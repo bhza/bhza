@@ -65,9 +65,9 @@ _I am open to new opportunities/contributions._
     </td>
   </tr>
 </table>
-<p align="center">
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
