@@ -84,17 +84,19 @@ _I am open to new opportunities/contributions._
 
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhza" alt="bhza"></a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
 <img src="https://api.star-history.com/svg?repos=bhza/bhza&amp;type=Date" alt="Star History Chart">
 
 
 ![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-dark.svg) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
