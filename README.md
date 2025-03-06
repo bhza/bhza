@@ -55,8 +55,6 @@ _I am open to new opportunities/contributions._
 
 <!--<div align="center">  -->
 
-
-
 <table>
   <tr>
     <td>
@@ -67,10 +65,10 @@ _I am open to new opportunities/contributions._
     </td>
   </tr>
     <tr>
-        <td>
-            [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-        </td>
-    </tr>
+    <td>
+      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
 </table>
 
 <!-- </div> -->
