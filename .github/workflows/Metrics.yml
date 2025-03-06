@@ -60,3 +60,10 @@ jobs:
           plugin_lines_delay: 30
 
           
+          plugin_topics: yes
+          plugin_topics_limit: 12
+
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          
+          
