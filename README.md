@@ -24,9 +24,9 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<!-- <script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>-->
 
-<!-- ![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bhza&skills=JavaScript,TypeScript,PHP,HTML,CSS&show-other-skills=true) -->
+![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bhza&skills=JavaScript,TypeScript,PHP,HTML,CSS&show-other-skills=true)
 
 <img src="/github-metrics.svg" alt="Metrics" width="90%">
 
