@@ -78,6 +78,10 @@ _I am open to new opportunities/contributions._
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 <!-- </div> -->
 
 ## 🏆 Thophys earned by me :
@@ -118,7 +122,7 @@ _I am open to new opportunities/contributions._
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
