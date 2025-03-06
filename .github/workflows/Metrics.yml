@@ -64,33 +64,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_timezone: Europe/Paris
-
-          plugin_contributors: yes
-          plugin_contributors_sections: categories
           
 
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_followup_indepth: yes
-          plugin_followup_archived: no
-
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 8
-
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Awesome
-
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
-          plugin_traffic: yes
-
-          plugin_gists: yes
+          
           
           
