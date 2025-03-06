@@ -59,11 +59,10 @@ jobs:
           plugin_lines: yes
           plugin_lines_delay: 30
 
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
+          plugin_followup_archived: no
           
 
           
