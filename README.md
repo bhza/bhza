@@ -87,9 +87,14 @@ _I am open to new opportunities/contributions._
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhza" alt="bhza"></a>
 
 <br>
+
+### 🏆 Others :
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+---
 
 
 <img src="https://api.star-history.com/svg?repos=bhza/bhza&amp;type=Date" alt="Star History Chart">
