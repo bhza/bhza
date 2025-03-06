@@ -1,4 +1,4 @@
-name: Half-year calendar
+name: Metrics
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.svg
