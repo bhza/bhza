@@ -47,6 +47,13 @@ _I am open to new opportunities/contributions._
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/bhza/)
 
+<br><br>
+
+## Github stats:
+
+![GITHUB Stats](https://raw.githubusercontent.com/bhza/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/bhza/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/bhza/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/bhza/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--color=00bfbf-->
 
 <!--<div align="center">  -->
