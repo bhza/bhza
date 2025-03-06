@@ -56,7 +56,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-           plugin_lines: yes
+          plugin_lines: yes
           plugin_lines_delay: 30
 
           plugin_topics: yes
