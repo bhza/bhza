@@ -30,6 +30,16 @@
 
 <!--<img src="/github-metrics.svg" alt="Metrics" width="90%">-->
 
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+```
+
 
 | Repository Activity Trends                                                                                                        | Collaborative Productivity - Last 28 days                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
