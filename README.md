@@ -55,7 +55,7 @@ _I am open to new opportunities/contributions._
 
 <!--<div align="center">  -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <table>
   <tr>
@@ -66,6 +66,11 @@ _I am open to new opportunities/contributions._
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=shadow_red">
     </td>
   </tr>
+    <tr>
+        <td>
+            [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+        </td>
+    </tr>
 </table>
 
 <!-- </div> -->
