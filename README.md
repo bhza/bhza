@@ -39,7 +39,7 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/bhza/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-[<img align="right" alt="🦑" src="https://github.com/lowlighter/bhza/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
+[<img align="right" alt="🦑" src="https://github.com/bhza/bhza/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 ### Main skills:
 <!--![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
