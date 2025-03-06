@@ -106,7 +106,7 @@ _I am open to new opportunities/contributions._
 
 <br>
 
-## 🐍 Classic Old Snake ( Make by me ) :
+## 🐍 Classic Old Snake ( Make by me with blobs, dont jugde me)  :
 
 <br>
 
