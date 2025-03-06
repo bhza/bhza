@@ -136,6 +136,8 @@ counting of visitors to this page in this section started from June 30, 2023
 
 ## 📈 3D Graph's Make By Hard Work
 
+This graph shows my interactions from my github account. And why is it here? Here I can show in more detail and in 3d form to better visualize what has happened since I joined the platform.
+
 <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
