@@ -30,6 +30,7 @@
 
 <!--<img src="/github-metrics.svg" alt="Metrics" width="90%">-->
 
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -40,15 +41,20 @@
         "ID": 0
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -49.7500,
-          -21.6736
+          [
+            [
+              -21.6724241,
+              -49.7651567
+            ],
+          ]
         ]
       }
     }
   ]
 }
+```
 
 
 ```mermaid
