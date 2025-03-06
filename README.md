@@ -55,7 +55,7 @@ _I am open to new opportunities/contributions._
 
 <!--<div align="center">  -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhza)](https://github.com/bhza/github-readme-stats)
 
 <table>
   <tr>
