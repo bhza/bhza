@@ -192,7 +192,7 @@ I found it interesting to know which people visit my profile, since it's a globa
 <br>
 <br>
 
-<p align="center" > If you also want to search using the api feel free, it is functional and fully working. </p>
+<p align="center" > ⚠️ If you also want to search using the api feel free, it is functional and fully working. ⚠️</p>
 
 <br>
 <br>
@@ -231,6 +231,8 @@ I found it interesting to know which people visit my profile, since it's a globa
 <br>
 
 ## ⚠️ Machine Learn
+
+<br>
 
 <p align="center"> I'm currently interested in machine learning, but I'm not a professional in the field. </p>
 
