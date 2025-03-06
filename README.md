@@ -37,6 +37,8 @@ Welcome to my page; on my Github, you can find:
 
 _I am open to new opportunities/contributions._
 
+<br><br>
+
 <!--color=00bfbf-->
 
 <!--<div align="center">  -->
