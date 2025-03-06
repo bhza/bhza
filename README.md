@@ -11,6 +11,15 @@
 ![](./src/header_.png)
 <!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Dmitry (Di).
+
+<p>
+    <a href="https://github.com/bhza/bhza"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/bhza/bhza/graphs/contributors"><img src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/bhza/bhza/stargazers"><img src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/bhza/bhza/network/members"><img src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
+</p>
 
 <!--color=00bfbf-->
 
