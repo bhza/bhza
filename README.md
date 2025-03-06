@@ -55,15 +55,15 @@ _I am open to new opportunities/contributions._
 
 <!--<div align="center">  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhza)](https://github.com/bhza/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&theme=shadow_red" alt="Bruno Henrique GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=shadow_red" alt="Bruno Henrique GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&theme=shadow_red">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=shadow_red">
     </td>
   </tr>
 </table>
