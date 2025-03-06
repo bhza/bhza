@@ -63,7 +63,7 @@ _I am open to new opportunities/contributions._
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&theme=shadow_red" alt="Bruno Henrique GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=4900c7&text_color=4900c7&bg_color=0d1117">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&theme=shadow_red">
     </td>
   </tr>
 </table>
