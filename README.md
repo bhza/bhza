@@ -30,6 +30,8 @@
 
 <!--<img src="/github-metrics.svg" alt="Metrics" width="90%">-->
 
+<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />
+
 | Repository Activity Trends                                                                                                        | Collaborative Productivity - Last 28 days                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=851265087&image_size=auto" /> |
