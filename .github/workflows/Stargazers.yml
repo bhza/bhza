@@ -1,0 +1,18 @@
+name: Metrics
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+        - name: Using graph charts
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.stargazers.graph.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_stargazers: yes
+            plugin_stargazers_charts_type: graph
