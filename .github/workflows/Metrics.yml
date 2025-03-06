@@ -2,6 +2,7 @@ name: Metrics
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.svg
+  user: bhza
   token: ${{ secrets.METRICS_TOKEN }}
   base: ""
   plugin_isocalendar: yes
