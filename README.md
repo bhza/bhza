@@ -149,6 +149,18 @@ This graph shows my interactions from my github account. And why is it here? Her
 
 ![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bhza&skills=JavaScript,TypeScript,PHP,HTML,CSS&show-other-skills=true)
 
+<br>
+<br>
+<br>
+
+## 🎉 🎉 About me, in more specific terms
+
+<br>
+
+If you don't have any questions about my projects or my working methods, you can find out more about me here. As there are links to my social networks, feel free to contact me.
+
+<br>
+
 <img src="/github-metrics.svg" alt="Metrics" width="90%">
 
 <a href="https://info.flagcounter.com/Vsph"><img src="https://s05.flagcounter.com/map/Vsph/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
