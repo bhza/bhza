@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bhza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-dark.svg)
 
 ### Main skills:
 <!--![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
