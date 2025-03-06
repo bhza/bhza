@@ -114,7 +114,7 @@ _I am open to new opportunities/contributions._
 
 <br>
 
-![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-light.svg) 
+![snake gif](https://github.com/bhza/bhza/blob/output/github-snake.svg) 
 
 <br>
 
