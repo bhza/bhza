@@ -28,6 +28,8 @@
 
 ![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bhza&skills=JavaScript,TypeScript,PHP,HTML,CSS&show-other-skills=true)
 
+![Metrics](/github-metrics.svg)
+
 ### Main skills:
 <!--![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;-->
