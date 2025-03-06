@@ -24,9 +24,9 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<!--<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script> -->
 
-<codersrank-skills-chart username="bhza"></codersrank-skills-chart>
+<codersrank-skills-chart username="bhza" labels legend tooltip ></codersrank-skills-chart>
 
 ### Main skills:
 <!--![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
