@@ -21,6 +21,12 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
+I am 🧙 Programmer and fullstack developer and 🏆 Open Source lover
+
+Welcome to my page; on my Github, you can find:
+
+- Projects created by me
+- Projects contributed by me
 <!--color=00bfbf-->
 
 <!--<div align="center">  -->
