@@ -49,7 +49,7 @@ _I am open to new opportunities/contributions._
 
 <br><br>
 
-## Github stats:
+## 📈 Github stats:
 
 <!--color=00bfbf-->
 
