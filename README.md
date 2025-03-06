@@ -153,12 +153,18 @@ This graph shows my interactions from my github account. And why is it here? Her
 <br>
 <br>
 
-## 🎉 🎉 About me, in more specific terms
+# 🎉 🎉 About me, in more specific terms
 
 <br>
 
 If you don't have any questions about my projects or my working methods, you can find out more about me here. As there are links to my social networks, feel free to contact me.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <img src="/github-metrics.svg" alt="Metrics" width="90%">
