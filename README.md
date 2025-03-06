@@ -124,8 +124,10 @@ _I am open to new opportunities/contributions._
 
 
 
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+## 👤 Profile Views
+counting of visitors to this page in this section started from June 30, 2022
+
+<br>
 
 ![](https://count.getloli.com/get/@bhza.github.readme)
 
