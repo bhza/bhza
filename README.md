@@ -29,7 +29,7 @@ Welcome to my page; on my Github, you can find:
 - Projects contributed by me
 
 
-<br><br>
+<br>
 
 ## 📧 You can contact me on:
 
@@ -37,7 +37,7 @@ Welcome to my page; on my Github, you can find:
 
 _I am open to new opportunities/contributions._
 
-<br><br>
+<br>
 
 ## 🔎 You can find me on:
 
@@ -47,7 +47,7 @@ _I am open to new opportunities/contributions._
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/bhza/)
 
-<br><br>
+<br>
 
 ## 📈 Github stats:
 
@@ -66,13 +66,11 @@ _I am open to new opportunities/contributions._
   </tr>
 </table>
 
-<br> 
 
 ---
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
-<br> 
 
 ---
 
