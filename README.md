@@ -27,6 +27,9 @@ Welcome to my page; on my Github, you can find:
 
 - Projects created by me
 - Projects contributed by me
+
+
+<br><br>
 <!--color=00bfbf-->
 
 <!--<div align="center">  -->
