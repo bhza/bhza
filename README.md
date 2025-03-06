@@ -106,7 +106,17 @@ _I am open to new opportunities/contributions._
 
 <br>
 
+## 🐍 Classic Old Snake ( Make by me ) :
+
+<br>
+
 ![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-dark.svg) 
+
+<br>
+
+![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-light.svg) 
+
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
