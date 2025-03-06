@@ -30,6 +30,27 @@
 
 <!--<img src="/github-metrics.svg" alt="Metrics" width="90%">-->
 
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7500,
+          -21.6736
+        ]
+      }
+    }
+  ]
+}
+
+
 ```mermaid
 graph TD;
     machine-learning-->Data;
