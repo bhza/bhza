@@ -172,7 +172,9 @@ If you don't have any questions about my projects or my working methods, you can
 <br>
 <br>
 
---- <br>
+--- 
+
+<br>
 
 ## 👥 Visit counter by countries.
 
@@ -186,6 +188,11 @@ I found it interesting to know which people visit my profile, since it's a globa
 
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<br>
+
+> If you also want to search using the api feel free, it is functional and fully working.
+
 
 ```geojson
 {
