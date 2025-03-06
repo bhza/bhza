@@ -1,17 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4900c7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4900c7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Henrique;I'm+28+years+old;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+👋;I'm+29+years+old;I'm+a+programmer+and+an+IT+profissional;Be+Welcome+to+github+profile!+:%29)
 <br>
 <br>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
+
 
 <!--color=00bfbf-->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=4900c7&icon_color=4900c7&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=4900c7&text_color=4900c7&bg_color=0d1117" />
-</div>
+<!--<div align="center">  -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&count_private=true&hide_border=true&title_color=4900c7&icon_color=4900c7&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Henrique GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&hide_border=true&title_color=4900c7&text_color=4900c7&bg_color=0d1117">
+    </td>
+  </tr>
+</table>
+
+<!-- </div> -->
 <br>
 <br>
 <br>
