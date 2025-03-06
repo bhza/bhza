@@ -51,12 +51,11 @@ _I am open to new opportunities/contributions._
 
 ## Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/bhza/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/bhza/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/bhza/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/bhza/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 <!--color=00bfbf-->
 
 <!--<div align="center">  -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&theme=dark&show_icons=true)
 
 <table>
   <tr>
