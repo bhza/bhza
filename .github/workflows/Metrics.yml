@@ -74,12 +74,7 @@ jobs:
 
           plugin_contributors: yes
           plugin_contributors_sections: categories
-          plugin_contributors_categories: |
-          {
-            "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
-            "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
-            "💻 Code (other)":["source/**", "Dockerfile"]
-          }
+          
 
           plugin_followup: yes
           plugin_followup_sections: user
