@@ -21,6 +21,18 @@
 
 ![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-dark.svg) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhza" alt="bhza"></a>
+
+<img src="https://api.star-history.com/svg?repos=bhza/bhza&amp;type=Date" alt="Star History Chart">
+
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@bhza.github.readme)
+
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- replace x.x.x with actual version -->
