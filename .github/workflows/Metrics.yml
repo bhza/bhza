@@ -43,7 +43,7 @@ jobs:
 
           plugin_skyline: yes  
           plugin_skyline_year: 2022 
-          plugin_skyline_frames: 120  
+          plugin_skyline_frames: 6  
           plugin_skyline_quality: 1  
 
           plugin_stargazers: yes  
@@ -67,6 +67,8 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+         
 
 
 
