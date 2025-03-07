@@ -162,27 +162,9 @@ _I am open to new opportunities/contributions._
 <br>
 <br>
 
-## ⭐ Bio in the moment
+## Personal biography of my journey so far
 
-<br><br>
-
-Hi, I'm Bruno Henrique Zanchietta De Almeida, a web developer, digital designer, computer technician, system administrator, and network infrastructure specialist. Additionally, I have knowledge in electronics and data science. Currently, I am the curator of the Internet Systems course at FATEC in Lins.  
-
-With a career focused on technology, I am always looking to update and expand my skills. Over the years, I have had the opportunity to work on various projects, ranging from website development to the implementation of complete IT infrastructure solutions.  
-
-When I'm not coding or designing technological solutions, I enjoy exploring new knowledge and diving into the latest technology trends. I'm passionate about learning and sharing what I know, always seeking new challenges.  
-
-<br>
-
-I am a Brazilian developer with a unique and eclectic trajectory in the world of technology. My journey began in the field of cybersecurity, where I developed a strong foundation in system and network protection. Over time, my curiosity led me to the world of web design, where I learned to create attractive and functional interfaces. After exploring design, my path took me to mechanics, where I gained a technical and detailed understanding of physical systems. This experience further enhanced my analytical and practical approach. 
-
-Next, I returned to the world of technology, diving into web development and deepening my knowledge of database administration, which gave me a solid understanding of data management and system optimization. My passion for data science also emerged, where I studied ways to extract, analyze, and interpret data to generate valuable insights. Throughout my career, I also gained hands-on experience in computer maintenance, infrastructure, and networks, always looking for ways to improve system performance and ensure stability. 
-
-Additionally, I specialized in server administration, both in Linux and Windows environments, which gave me the ability to efficiently manage, configure, and optimize these systems. I didn't stop there, and ventured into mobile development, creating apps and practical solutions for mobile devices. Finally, my journey led me to electronics, where I combined my love for technology with the creation of devices and circuits that interact directly with the physical world. 
-
-This combination of areas has allowed me to evolve as a versatile professional, always with an eye on technological needs and innovations. My passion for learning and expanding my knowledge has driven me to follow these diverse paths, making me a well-rounded developer with a broad and integrated view of current technologies.
-
-<br><br>
+#### Hi, I'm Bruno Henrique Zanchietta De Almeida, a web developer, digital designer, computer technician, system administrator, and network infrastructure specialist. Additionally, I have knowledge in electronics and data science. Currently, I am the curator of the Internet Systems course at FATEC in Lins. With a career focused on technology, I am always looking to update and expand my skills. Over the years, I have had the opportunity to work on various projects, ranging from website development to the implementation of complete IT infrastructure solutions. When I'm not coding or designing technological solutions, I enjoy exploring new knowledge and diving into the latest technology trends. I'm passionate about learning and sharing what I know, always seeking new challenges.   I am a Brazilian developer with a unique and eclectic trajectory in the world of technology. My journey began in the field of cybersecurity, where I developed a strong foundation in system and network protection. Over time, my curiosity led me to the world of web design, where I learned to create attractive and functional interfaces. After exploring design, my path took me to mechanics, where I gained a technical and detailed understanding of physical systems. This experience further enhanced my analytical and practical approach. Next, I returned to the world of technology, diving into web development and deepening my knowledge of database administration, which gave me a solid understanding of data management and system optimization. My passion for data science also emerged, where I studied ways to extract, analyze, and interpret data to generate valuable insights. Throughout my career, I also gained hands-on experience in computer maintenance, infrastructure, and networks, always looking for ways to improve system performance and ensure stability.  Additionally, I specialized in server administration, both in Linux and Windows environments, which gave me the ability to efficiently manage, configure, and optimize these systems. I didn't stop there, and ventured into mobile development, creating apps and practical solutions for mobile devices. Finally, my journey led me to electronics, where I combined my love for technology with the creation of devices and circuits that interact directly with the physical world.  This combination of areas has allowed me to evolve as a versatile professional, always with an eye on technological needs and innovations. My passion for learning and expanding my knowledge has driven me to follow these diverse paths, making me a well-rounded developer with a broad and integrated view of current technologies.
 
 ## ⭐ Highlights and proficiences
 
