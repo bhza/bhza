@@ -50,7 +50,6 @@ _I am open to new opportunities/contributions._
 <a href="https://www.youtube.com/channel/UCHOtNnW5KY9fkbPJcXdUkLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/bruunows" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:bruno.almeida81@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruno-henrique-a2a089252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
 
@@ -498,7 +497,7 @@ Some history about what I've been doing and have done since I joined the platfor
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&theme=synthwavet&count_private=true)-->
 
-<div align="center"><br>
+<!-- <div align="center"><br>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=transparent&count_private=true" />
 <hr><br>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=transparent" />
@@ -507,10 +506,12 @@ Some history about what I've been doing and have done since I joined the platfor
   <div align="center"><br>
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<!--  <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  </div>
+
+ -->
   
   ##
  <div align="center" fontsize="50px">
@@ -535,7 +536,65 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
+```
+
+                                           .-=+****+=-.                                             
+                                       .:*%@@@@@@@@@@@@@%+:.                                        
+                                      .*@@@@@@@@@@@@@@@@@@@#:.                                      
+                                     .%@@@@@@@@@@@@@@@@:-%@@@+                                      
+                                     *@@@@@@@@@@@@@@@@:=%@@@@@+                                     
+                                    .@@@@@@@@@@@@@@@@@@@@@@@@@@:                                    
+                                    -@@@@@@@@@@@@@@@@@@@@@@@@@@*                                    
+                                    +@@@@%@@@@@@@@%=:-#%@@@@@@@#.                                   
+                                    +@@=....#@@@@*  ..  -@@@@@@#.                                   
+                                    =@@.*@+.-@@@#..=%#=..=@@@@@%.                                   
+                                    -@@:@%*-.%@@# *@@@:%.=@@@@@%:                                   
+                                    -@@.*@@+--:-+.=@@@@* =@@@@@@=                                   
+                                    :@@%=+:=-:::::::*#%%+%@@@@@@*.                                  
+                                    .@@=::::::::::::::::-#@@@@@@*.                                  
+                                    .@@-:::::::::::::-=#:+@@@@@@%-.                                 
+                                    .%@@%=::::::-=++*+::-#@@++@@@#:.                                
+                                    .%@@@@#**###+=:-+*%-:#@@@-.-@@#:.                               
+                                    -@@.*@#=:::-+#%*=.   -%@@@##@@@#.                               
+                                  .=@@+ .+@@@@@@%+:       :%@@@@@@@@#.                              
+                                 .+@@*   .:#@@%-           .%@@@@@@@@%.                             
+                               ..#@@*.                      :@@@@@@@@@@-.                           
+                               :%@@@-                        *@@@@@@@@@@+.                          
+                             .+@@@@*:                        .@@@@=#@@@@@%:.                        
+                            .#@@@@@#:                         -@@@@=:@@@@@@-.                       
+                           .#@-=@@@=.                         .-@@@@+.%@@@@@-                       
+                          .*@:@@@%:                             =@@@@*.%@@@@@-                      
+                          =@@@@@%-                              .+@@@@+:@@@@@@:                     
+                        .:#@@@@@*                                :#@@@@:=@@@@@%.                    
+                        .+@@@@@%                                  *@@@@#-@@@@@@+.                   
+                        =@%#@@@.                                  +@@@@#-%@@@@@#.                   
+                       =@@+*@@%                                   +@@@@%=@@@@@@%=                   
+                      =@@@+*@@%                                   +@@@@#=@@@@@@@*.                  
+                     :@@@@+*@@*                                   +@@@@-#@@@@@@@#:                  
+                     =@@@@%-*@#                                   .-+*=--=%@@@@@#:                  
+                     -@%#%@@=..                                   -%@@@@@@@@@@@@*.                  
+                    .:::::=#@#-                               .:+*+%@@@@@@@@@@@%:                   
+                    ==::::::=@@%=                             :%+:=%@@@@@@@@@@+:.                   
+                   :#=:::::::-#@@%-.                          :%:::=@@@@@@@@*-::=-.                 
+            .::::=*%+-:::::::::+@@@%+.                        :%::::-+*%#*=-::::++.                 
+           -*=--==--::::::::::::=%@@@@#.                      :%::::::::::::::::+%=.                
+          .+#-:::::::::::::::::::-#@@@@@*                     :%-:::::::::::::::-*@#.               
+           -%*-:::::::::::::::::::-#@@@@%:                    :@*:::::::::::::::::=#@%=.            
+           .#@-:::::::::::::::::::::*@@%:.                 +@=:@#:::::::::::::::::::::-*=.          
+           .*@=::::::::::::::::::::::+*.                 :#@@--@#::::::::::::::::::::::+*.          
+           :%#-:::::::::::::::::::::::*%.+%-          .*@@@@@.*@*::::::::::::::::::::=%:            
+          .*+-:::::::::::::::::::::::::@#.+@@@@@@@@@@@@@@@@@-.@%=::::::::::::::-=#%%-.              
+          .+%*=---:::::::::::::::::::::@@*=@@@@@@@@@@@@@@@@@-.@%-::::::::::--%@%+..                 
+            .:=*%%%%*=---:::::::::::::=@@%%@@@@@@@@@@@@@@@@@@%@@*::::::::-*@@+.                     
+                   ..:=*%%%#+==--:::-+@@#=:.                 -@@@#=-::-=*@%-.                       
+                          .-*%@@@@@@@@+.                      :%@@@@@@@@@+.                         
+                               .=+#*-.                         ..-=+++=:.                           
+                                                                                                    
+
+
+```
+
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4900c7&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
   
