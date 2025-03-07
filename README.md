@@ -284,7 +284,7 @@ Linguagens & Tecnologias: `CSS3`, `HTML5`, `Figma`, `Javascript`\
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Frontend" src="https://cdn.vectorstock.com/i/500p/39/26/front-end-developer-concept-vector-9273926.jpg"/>](https://github.com/bhza/)
+[<img align="left" height="94px" width="94px" alt="Frontend" src="[https://cdn.vectorstock.com/i/500p/39/26/front-end-developer-concept-vector-9273926.jpg](https://r2.erweima.ai/imgcompressed/img/compressed_a9205225b9f53464b6a5216c381aebfe.webp)"/>](https://github.com/bhza/)
 
 **Back-end Developer (Free Lancer)** \
 [**Free Lancer**](https://github.com/bhza/) • Full-time \
@@ -292,11 +292,11 @@ Linguagens & Tecnologias: `Mysql`, `NodeJs`, `ExpressJS`, `MongoDB`\
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-v7j2sHOqdPkjArAlxgC0rUVUNRk-J42xQ&s"/>](https://lins.sp.gov.br/)
 
 **System Administrator / DevOPS / Full-Stack Developer** \
 [**Prefeitura**](https://lins.sp.gov.br/) • Contract \
-Linguagens & Tecnologias: `ShellScript`, `BatchScript`, `Sql`, `JavaScript`, `Docker`, `LXC`, `Oracle Virtual Box`, `HTML5`, `CSS3`, `Javascript`, `Delphi`, `SqlSERVER`, `Bootstrap`, `Tailwind`, `ExpressJS`, `NodeJS`, `Laravel`, `HandlebarsJs`  \
+Linguagens & Tecnologias: `ShellScript`, `BatchScript`, `Sql`, `JavaScript`, `Docker`, `LXC`, `Oracle Virtual Box`, `HTML5`, `CSS3`, `Javascript`, `Delphi`, `SqlSERVER`, `Bootstrap`, `Tailwind`, `ExpressJS`, `NodeJS`, `Laravel`, `HandlebarsJs`  
 
 <br/>
 <br/>
