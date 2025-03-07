@@ -332,6 +332,13 @@ If you don't have any questions about my projects or my working methods, you can
 
 <br>
 
+
+### Thanks for reading this far and visiting.
+<img src="https://profile-counter.glitch.me/{bhza}/count.svg" />
+<img src="https://profile-counter.glitch.me/bhza/count.svg" />
+
+<br><br>
+
 ## 👥 Visit counter by countries.
 
 I found it interesting to know which people visit my profile, since it's a global platform I'd like to know. First, I thought it would be interesting to know where the viewers are coming from on the map, in case some people have difficulties with geography there is a flag counter, have fun.
@@ -481,14 +488,9 @@ Some history about what I've been doing and have done since I joined the platfor
   <a href="https://www.linkedin.com/in/bruno-henrique-a2a089252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bhza}/count.svg" /></p> 
-<br></div>
 
-<br><p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/bhza/count.svg" /></p>
   
-![snake gif](https://github.com/bhza/bhza/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/bhza/bhza/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhza&show_icons=true&theme=synthwavet&count_private=true)-->
