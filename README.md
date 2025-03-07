@@ -263,17 +263,17 @@ _I am open to new opportunities/contributions._
 - 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
 - 💡 Importance of ethical behavior and integrity in all aspects of life
 
+<br> <br>
 
-### Experiência de trabalho
+## 👷 Work experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you'll find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://s3.us-east-1.amazonaws.com/cdn.designcrowd.com/blog/67-programming-logos-to-say-hello-world/scoder-coding-programming-logo-design-by-saiduzzaman-khondhoker-dribbble.png"/>](https://www.github.com/bhza/)
 
 **Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+[**Free Lancer**](https:/github.com/bhza/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Javascript`, `C`, `JavaScript`, `Mysql`, `Typescript`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
