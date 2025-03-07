@@ -279,17 +279,25 @@ Linguagens & Tecnologias: `Python`, `Javascript`, `C`, `JavaScript`, `Mysql`, `T
 [<img align="left" height="94px" width="94px" alt="Frontend" src="https://cdn.vectorstock.com/i/500p/39/26/front-end-developer-concept-vector-9273926.jpg"/>](https://github.com/bhza/)
 
 **Frot-end Developer (Free Lancer)** \
-[**Free Lancer**](https://rocketseat.com.br/) • Full-time \
+[**Free Lancer**](https://github.com/bhza/) • Full-time \
 Linguagens & Tecnologias: `CSS3`, `HTML5`, `Figma`, `Javascript`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Frontend" src="https://cdn.vectorstock.com/i/500p/39/26/front-end-developer-concept-vector-9273926.jpg"/>](https://github.com/bhza/)
+
+**Back-end Developer (Free Lancer)** \
+[**Free Lancer**](https://github.com/bhza/) • Full-time \
+Linguagens & Tecnologias: `Mysql`, `NodeJs`, `ExpressJS`, `MongoDB`\
+
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**System Administrator / DevOPS / Full-Stack Developer** \
+[**Prefeitura**](https://lins.sp.gov.br/) • Contract \
+Linguagens & Tecnologias: `ShellScript`, `BatchScript`, `Sql`, `JavaScript`, `Docker`, `LXC`, `Oracle Virtual Box`, `HTML5`, `CSS3`, `Javascript`, `Delphi`, `SqlSERVER`, `Bootstrap`, `Tailwind`, `ExpressJS`, `NodeJS`, `Laravel`, `HandlebarsJs`  \
+
 <br/>
 <br/>
 
