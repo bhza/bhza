@@ -155,6 +155,57 @@ _I am open to new opportunities/contributions._
 
 <!-- </div> -->
 
+<br>
+<br>
+
+## ⭐ Highlights and proficiences
+
+<br>
+
+- ⭐ Graphic Design.
+- ⭐ Software Development Manager.
+- ⭐ Software Process Analyst.
+- ⭐ Computer Systems Programmer.
+- ⭐ Information Technology Consultant.
+- ⭐ Web Developer.
+- ⭐ SEO (Search Engine Optimization) Analyst and Content Manager.
+- ⭐ Technologist in Internet Systems.
+- ⭐ Develop information technology systems.  
+- ⭐ Manage information technology environments.  
+- ⭐ Provide technical support to clients/users.  
+- ⭐ Prepare documentation for information technology systems.  
+- ⭐ Establish standards for the information technology environment.  
+- ⭐ Offer solutions for information technology environments.  
+- ⭐ Research innovations in information technology and personal characteristics.  
+- ⭐ Knowledge of website/web project standards.  
+- ⭐ Knowledge in web content creation.  
+- ⭐ Knowledge of algorithms and programming logic.  
+- ⭐ Elementary mathematics.  
+- ⭐ Reading and text production.  
+- ⭐ Knowledge of networks and the internet.  
+- ⭐ Knowledge of data structures.  
+- ⭐ Manage servers, networks, and IT infrastructure environments, ensuring high availability and performance.  
+- ⭐ Implement and manage information security policies, including access control, encryption, and cyber threat prevention.  
+- ⭐ Configure and monitor firewalls, VPNs, and intrusion detection and prevention systems (IDS/IPS).  
+- ⭐ Plan and execute backups and disaster recovery strategies to ensure business continuity.  
+- ⭐ Manage operating systems such as Windows Server and Linux distributions, performing periodic maintenance and updates.  
+- ⭐ Monitor networks and systems using tools such as Zabbix, Nagios, and Grafana to identify and resolve performance issues.  
+- ⭐ Automate system administration tasks using scripts in PowerShell, Bash, and Python.  
+- ⭐ Deploy and manage cloud computing services such as AWS, Azure, and Google Cloud.  
+- ⭐ Ensure compliance with security standards and regulations such as LGPD, ISO 27001, and GDPR.  
+- ⭐ Configure and administer web servers like Apache, Nginx, and IIS.  
+- ⭐ Manage and configure SQL and NoSQL databases, ensuring security and performance.  
+- ⭐ Implement virtualization and container solutions using technologies such as VMware, Hyper-V, Docker, and Kubernetes.  
+- ⭐ Conduct security audits to identify vulnerabilities and recommend risk mitigation solutions.  
+- ⭐ Act in security incident management, performing forensic analysis and responding to cybersecurity incidents.  
+- ⭐ Provide advanced technical support to users and development teams, ensuring the efficient operation of systems.  
+- ⭐ Knowledge of internet-related legislation.  
+
+---
+
+Let me know if you need any refinements! 🚀
+
+
 ## 🏆 Thophys earned by me :
 
 <br>
