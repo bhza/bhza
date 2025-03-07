@@ -536,6 +536,61 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
+## Free software.
+
+<br>
+
+# The Greatness of Free Software  
+
+Free software is more than just an alternative to proprietary software; it is a philosophy that champions user freedom and knowledge sharing. As Richard Stallman said:  
+
+> *"Free software is a matter of freedom, not price. To understand the concept, you should think of 'free speech,' not 'free beer'."*  
+
+I strongly believe in the **GNU Project**, as it promotes digital autonomy and collaboration. Without it, we would be trapped in proprietary systems that restrict our right to understand, modify, and share software. Stallman founded this movement with a clear purpose: to ensure that everyone has control over the technology they use.  
+
+Linus Torvalds, the creator of **Linux**, supports this vision with a pragmatic approach:  
+
+> *"Software is like sex: it's better when it's free."*  
+
+His open-source operating system revolutionized computing, proving that open collaboration can produce something superior to what closed corporate environments create.  
+
+## Security and Reliability  
+
+One of the key advantages of free software is **security and reliability**. Unlike proprietary systems, where only a single company has control, free software allows anyone to contribute, review, and improve it. This creates a transparent ecosystem where errors are quickly fixed, and solutions are accessible to all.  
+
+Stallman also warns us:  
+
+> *"If you don’t have the freedom to run, modify, and share the software you use, then you are being controlled by whoever developed it."*  
+
+I believe technology should be in the hands of users, not corporations that prioritize profit over ethics.  
+
+## The Social Impact of Free Software  
+
+Free software also has a **positive impact on society**. It democratizes access to knowledge, ensuring that people, regardless of their financial situation, have powerful tools to learn and create. Torvalds once said:  
+
+> *"Free software only works if you can trust it."*  
+
+That trust comes from transparency and community involvement.  
+
+## Innovation Without Restrictions  
+
+Another crucial aspect is **innovation without restrictions**. In the free software world, developers are free to experiment and push boundaries without worrying about corporate limitations or licensing fees. This encourages technological advancement at an unprecedented scale.  
+
+Moreover, free software **respects user privacy**, unlike proprietary alternatives that often include surveillance and hidden tracking. When software is open, you can verify exactly what it does and ensure that it works in your best interest.  
+
+## A Future of Freedom  
+
+That is why I fully support **GNU/Linux** and all projects that promote digital freedom. The future of technology must be based on **collaboration, ethics, and user independence**.  
+
+After all, as Stallman states:  
+
+> *"Freedom is power: the power to cooperate with others, the power to control your own life."*  
+
+And that is exactly what free software offers us.  
+
+<br>
+<br>
+
 ```
 
                                            .-=+****+=-.                                             
