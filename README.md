@@ -536,10 +536,6 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
-## Free software.
-
-<br>
-
 # The Greatness of Free Software  
 
 Free software is more than just an alternative to proprietary software; it is a philosophy that champions user freedom and knowledge sharing. As Richard Stallman said:  
@@ -589,6 +585,100 @@ After all, as Stallman states:
 And that is exactly what free software offers us.  
 
 <br>
+
+```
+             .:-+++++++++++++++=:.                                      .-========+=:.              
+         .:+*=-:.  .==:.-+*+=-::-++:                                .-+=-:..:..  ...:--+=:.         
+       .+*=:. :###%@@@@@%+=#%+-+*=.-=***#:                     :-:-+=:.*#*@@%@@%@@%*===..-*=.       
+     .**:..-+*@@@@@+. ..:====:.  ... .-*-.                     .#-.. ............:*@@@@*...:#*.     
+   .=#:  :#@@@@*. .=%*=:......:-=++=-:..                         :=+****+=-:...-*#=...%@@@#:.:#-    
+  .+=. :%@@@#-..-#-.                                                               -#:.+%@@@+..++.  
+ .++.  *@@@%- :#:                   ............          .........                  -#..*@@@- .++. 
+.=+  .-@@@%=.=*                  ..-*+-..  ..-**-:      .-*=:.  .:++-..               .*:=%@@#:..+-.
+.#.  -@@@@=.=+                 .:*-. ..:--==--:..=*:..:#+...:---::. .-+:.              :+:-%@@%. .*.
++-   .@@@@+-+.               .:+-..:=#@@@@@@@@@@*:.-#%@%#%*#%@@@@@@*-..-+:              -==@@@+.  =-
+#.  -%@@@+.+-.              .++..=%@@@@@@@@@@@@@@@*::..:#+:+##%@@@@@@%+..==.            :=.+@@@*. :+
+%   .+@@@*.+-             .=*:.-%@@@@@@@@@@@@@@@@@@@-    *: .*#%@@@@@@@@=.-+:           :=:*@@#:  .*
+%  .-#@@@%-+-            :*=..#@@@@@@@@@@@@@@@@@@@@@-    +.  .#+@@@@@@@@@*.:+:.         :=:#@@@*. .#
+#.  .-%@@+.+=.         .=+..=@@@@@@@@@@@@@@@@@@@#=:-*.    ::.=*%@@@@@@@@@@%-.==         -=:#@@=.  .#
+*:  .*@@@@*:*:        -#-.:%@@@@@@@@*=::...:::...  .=*.   .+-..  .%*-=*%@@@@+..*:      :+:+@@@@*. :*
+== ...=@@@+ .*#.   .-@=.:#@@@#:.....      :%        ..:+%*:*.    .-=    .:#@@@-.:*-.  -*..=@@%... =+
+.#.  -@@@@@@#. -#@%+. -%@@#:.        .#@@@@%      -@@*.   :*-. -@@--+:     =@@@@+..:-. .=@@@@%*: .#:
+.=+.  .#@@@@@:::...+@@@@#:         .:@+.*@%   ....   --. :+=. =@@-. .=.     :%@@@@@+.+@%@@@@@%. .+=.
+ .+=..+#%@@@@@@@@#@@@@@+          .+%=.:+-..:==--+=.  =:.     *@*::: +:       #@@@@@@@@@@@@@+. .+=. 
+  .+=. .#*%@@@@@@@@@@@+         ..-:          ....@.  .#:     *+..::=-.       .@@@@@@@@@@%#: ..+=.  
+   .=+.  :+=%@@@@@@@@+              .:    .+#%@@@%*=.  ::     *##@@@@#:        =@@@@@%@+#-:..:*-    
+     :*=.. .+--@*%%@*               .=    :@-:#@@@...   ..    .++@@@+-:        .=@@+#.+... :*+.     
+       -*+: ...::=*%:               =.     -+=-++-.-..          -@+++=.         .-%#:. ..=+=.       
+        .:=**=:. :#-.              .%       ..:::::.-:           .*+:+:           .*#*+=-..         
+           ..:-=+#*:              .%#             ...             .=-+#+.          .#.              
+                .++.             :%+%                              .+-#.-#=.        =#==.           
+                .*+.           .=%:.*                   .           .#%: ..-*%#:     .=%.           
+               :%=           .-%+.  .=.            .-%*:..:=#=..     .##........:-==-:.             
+               =*         .:=@*.     ..           .:#=%#+.   .+*-.     .=+=:=#.                     
+            .:*%-   ..:-=#%*=@-                    :@%- :--:..   =+..        +=                     
+           .**.  .:*%@%=:.  .@+           .--..    .--..%@@+#=.   .::.       =*                     
+           =#+*##%%-.@*      *#           .+            .-: .=-.            .#=                     
+           .-:. ... .@*      **              .:-=..=.         =.           -#+.                     
+                    .@*      -*#:               -+:.          ..        .=#+:.                      
+                    .@*      .:%=                :@.                :-++*%:.                        
+                    .@*       :*+..               :#.              ..   .:*+.                       
+                     *%       ..-*@.              .:%-                    .#-.                      
+                     :@-         .%@@*              .+#-.      .-+%@@@@@@@%-.                       
+                      ##.          .%*                 :=*#%#*=:.      -%.                          
+                      :%=          *%.                                 .%.                          
+                      .-#:         .#%*==:.                    ........+*                           
+                       .-*:.          -%@@+            .:-=+*#%@@@@#***=.                           
+                        .:#-.           .+@  .-:       ..:+#+-:-@*.                                 
+                          .+*.         .*@=.+@@=  .             #*.                                 
+                            .+=        .#@+.@@@@@=          ...  *+                                 
+                             .:=:       .-%@@@%@@-          ::.  *+                                 
+                               ..:.       ..=@*-%@*.       :#=*#@-.                                 
+                                 ...        .-@=:@@@@+. :#@@@@*..                                   
+                                          .#@%-  .%@@*.#@@@@@@%:.                                   
+                                          .#.   .@@@@#-%@@@@@@@@#-::...                             
+                                           ...  *#.%@@@@@@@@@@@@@@%#+.                              
+                                                .=..+@@%@@@%#@@@@%*:                                
+
+```
+
+# The GNU Project and the Four Freedoms  
+
+The **GNU Project** is the foundation of the free software movement. It was launched in **1983** by **Richard Stallman**, with the goal of creating a completely free operating system that respects user freedoms. This led to the development of the **GNU system**, which, when combined with the **Linux kernel**, forms what we now call **GNU/Linux**.  
+
+Stallman saw that proprietary software was restricting users, denying them control over their own computers. To counter this, he created the **Free Software Foundation (FSF)** in **1985**, ensuring that software would be **free as in freedom**, not just free of cost.  
+
+## The Four Essential Freedoms  
+
+At the heart of the GNU Project are the **Four Freedoms**, which define what it means for software to be truly free:  
+
+1. **Freedom 0** – The freedom to **run** the program **for any purpose**.  
+2. **Freedom 1** – The freedom to **study** how the program works and **change** it to do what you want. (Access to the source code is a must.)  
+3. **Freedom 2** – The freedom to **redistribute** copies to help others.  
+4. **Freedom 3** – The freedom to **distribute modified versions** so the community can benefit.  
+
+These freedoms empower users, ensuring they have control over their software rather than being controlled by it.  
+
+## Why GNU Matters  
+
+The GNU system laid the groundwork for the **open-source revolution**. Many core components of modern computing, such as **GCC (GNU Compiler Collection)**, **GNU Bash**, and **GNU Emacs**, were developed as part of this project.  
+
+Stallman famously said:  
+
+> *"The only way to make computers truly serve their users is to make sure that software obeys their freedom."*  
+
+Without GNU, we would be locked into proprietary ecosystems where companies dictate what we can and cannot do.  
+
+## A Future of Digital Freedom  
+
+The GNU Project continues to be **a symbol of digital freedom**. By supporting and using **free software**, we protect our rights and promote a world where knowledge is open and accessible to all.  
+
+As Stallman says:  
+
+> *"Think of free software as a way of life, not just as a tool."*  
+
+By embracing the GNU philosophy, we ensure that technology remains a force for **freedom, collaboration, and innovation**.  
+
 <br>
 
 ```
