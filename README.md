@@ -284,7 +284,7 @@ Linguagens & Tecnologias: `CSS3`, `HTML5`, `Figma`, `Javascript`\
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Frontend" src="https://cdn.vectorstock.com/i/500p/39/26/front-end-developer-concept-vector-9273926.jpg](https://r2.erweima.ai/imgcompressed/img/compressed_a9205225b9f53464b6a5216c381aebfe.webp)"/>](https://github.com/bhza/)
+[<img align="left" height="94px" width="94px" alt="Frontend" src="https://r2.erweima.ai/imgcompressed/img/compressed_a9205225b9f53464b6a5216c381aebfe.webp"/>](https://github.com/bhza/)
 
 **Back-end Developer (Free Lancer)** \
 [**Free Lancer**](https://github.com/bhza/) • Full-time \
