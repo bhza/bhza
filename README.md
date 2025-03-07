@@ -21,6 +21,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 I am 🧙 Programmer and fullstack developer and 🏆 Open Source lover
 
 Welcome to my page; on my Github, you can find:
