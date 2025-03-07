@@ -292,7 +292,7 @@ Linguagens & Tecnologias: `Mysql`, `NodeJs`, `ExpressJS`, `MongoDB`\
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-v7j2sHOqdPkjArAlxgC0rUVUNRk-J42xQ&s"/>](https://lins.sp.gov.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-v7j2sHOqdPkjArAlxgC0rUVUNRk-J42xQ&s](https://r2.erweima.ai/imgcompressed/img/compressed_a9205225b9f53464b6a5216c381aebfe.webp)"/>](https://lins.sp.gov.br/)
 
 **System Administrator / DevOPS / Full-Stack Developer** \
 [**Prefeitura**](https://lins.sp.gov.br/) • Contract \
@@ -301,7 +301,7 @@ Linguagens & Tecnologias: `ShellScript`, `BatchScript`, `Sql`, `JavaScript`, `Do
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Please find me on [LinkedIn](https://www.linkedin.com/in/bruno-henrique/) for a more detailed description of my work experience, education and certification.
 
 
 
