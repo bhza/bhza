@@ -585,6 +585,9 @@ After all, as Stallman states:
 And that is exactly what free software offers us.  
 
 <br>
+<br>
+<br>
+<br>
 
 ```
 %%%@@@@@@@@@@@@@%%%%%%%%*:::::::::----------------------------================##############%%%%%%%%
@@ -701,7 +704,7 @@ And that is exactly what free software offers us.
 
 ```
 
-# 🆓 The GNU Project and the Four Freedoms  
+# 🆓 The GNU Project and the Four Freedoms  🆓
 
 The **GNU Project** is the foundation of the free software movement. It was launched in **1983** by **Richard Stallman**, with the goal of creating a completely free operating system that respects user freedoms. This led to the development of the **GNU system**, which, when combined with the **Linux kernel**, forms what we now call **GNU/Linux**.  
 
@@ -739,8 +742,11 @@ As Stallman says:
 By embracing the GNU philosophy, we ensure that technology remains a force for **freedom, collaboration, and innovation**.  
 
 <br>
+<br>
+<br>
+<br>
 
-# The Creation of Linux  
+# 🐧 The Creation of Linux  
 
 In **1991**, a young Finnish student named **Linus Torvalds** started working on a new operating system kernel as a personal project. He wanted to create a free and open alternative to **MINIX**, a small Unix-like system used for education.  
 
@@ -887,6 +893,10 @@ What began as a personal hobby became **one of the most important technologies i
 
 
 ```
+
+<br>
+<br>
+<br>
 
 # 😈 BSD and Its Role in Free Software History  
 
