@@ -253,6 +253,16 @@ graph TD;
 
 <br>
 <br>
+<br>
+<br>
+
+## 🎊 Some more history .. 
+
+<br>
+
+Some history about what I've been doing and have done since I joined the platform with some graphics and a few other things that may have gone unnoticed until now.
+
+<br>
 
 | Repository Activity Trends                                                                                                        | Collaborative Productivity - Last 28 days                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
