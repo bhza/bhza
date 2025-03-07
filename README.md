@@ -304,6 +304,10 @@ Linguagens & Tecnologias: `ShellScript`, `BatchScript`, `Sql`, `JavaScript`, `Do
 Please find me on [LinkedIn](https://www.linkedin.com/in/bruno-henrique/) for a more detailed description of my work experience, education and certification.
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## 🏆 Thophys earned by me :
