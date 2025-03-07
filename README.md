@@ -328,14 +328,13 @@ If you don't have any questions about my projects or my working methods, you can
 <br>
 <br>
 
---- 
-
 <br>
 
-
-### Thanks for reading this far and visiting.
-<img src="https://profile-counter.glitch.me/{bhza}/count.svg" />
-<img src="https://profile-counter.glitch.me/bhza/count.svg" />
+## 👋 Thanks for reading this far and visiting.
+> Counter views ...
+<br>
+<img width="100%" src="https://profile-counter.glitch.me/{bhza}/count.svg" />
+<img width="100%" src="https://profile-counter.glitch.me/bhza/count.svg" />
 
 <br><br>
 
