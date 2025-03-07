@@ -201,9 +201,7 @@ _I am open to new opportunities/contributions._
 - ⭐ Provide advanced technical support to users and development teams, ensuring the efficient operation of systems.  
 - ⭐ Knowledge of internet-related legislation.  
 
----
-
-## Studying 🚀
+### Studying 🚀
 
 <br>
 
@@ -224,6 +222,19 @@ _I am open to new opportunities/contributions._
 - 📚 Create digital systems with accessibility.
 
   <br>
+
+#### Interests:
+
+- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
+- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
+
+### Big believer in:
+
+- 💡 Power of continuous learning and personal growth
+- 💡 Importance of cultivating a positive mindset and embracing optimism
+- 💡 Value of hard work and perseverance in achieving success
+- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
+- 💡 Importance of ethical behavior and integrity in all aspects of life
 
 
 ## 🏆 Thophys earned by me :
