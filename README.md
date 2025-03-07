@@ -472,15 +472,7 @@ Some history about what I've been doing and have done since I joined the platfor
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## 📚 🎓 Things that the course I'm currently on is teaching me. And tools.
 
@@ -539,26 +531,7 @@ Some history about what I've been doing and have done since I joined the platfor
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
   
 ##
 <div align="center" fontsize="50px">
