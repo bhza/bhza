@@ -203,7 +203,27 @@ _I am open to new opportunities/contributions._
 
 ---
 
-Let me know if you need any refinements! 🚀
+## Studying 🚀
+
+<br>
+
+- 📚 Analyze business processes and identify IT solutions related to websites and portals for the Internet (World Wide Web) or Intranet, in business activities, with a focus on e-commerce and electronic marketing.  
+- 📚 Manage and coordinate the development of system projects, including those with database access.  
+- 📚 Design information system projects for the Internet.  
+- 📚 Coordinate software development teams.  
+- 📚 Define requirements for the technical specification of projects and their development.  
+- 📚 Develop and implement different types of computing applications.  
+- 📚 Integrate media and apply graphic interface design to Internet websites.  
+- 📚 Design databases and utilize Database Management Systems (DBMS).  
+- 📚 Employ emerging technologies such as mobile computing, wireless networks, and distributed systems.  
+- 📚 Evaluate, test, and document software, focusing on systems that use the Internet as a platform.  
+- 📚 Apply system standardization techniques.  
+- 📚 Manage human and technological resources.  
+- 📚 Build Internet information systems by coding in commonly used programming languages for web applications.  
+- 📚 Contribute to innovation and knowledge development in this field.  
+- 📚 Create digital systems with accessibility.
+
+  <br>
 
 
 ## 🏆 Thophys earned by me :
