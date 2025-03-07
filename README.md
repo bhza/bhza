@@ -460,16 +460,16 @@ Some history about what I've been doing and have done since I joined the platfor
 <br>
 <br>
 
-## Things that the course I'm currently on is teaching me. And tools.
+## 📚 🎓 Things that the course I'm currently on is teaching me. And tools.
 
-### Main skills:
+### 🎓 Main skills:
 <!--![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;-->
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
  
-### Tools:
+### 🎓 Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
@@ -478,7 +478,7 @@ Some history about what I've been doing and have done since I joined the platfor
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
+### 🎓 Other Knowledge:
 <!--![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; -->
 <!--![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;-->
 <!--![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;-->
@@ -486,7 +486,7 @@ Some history about what I've been doing and have done since I joined the platfor
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 <!--![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;-->
   
-### Studying in this moment:
+### 🎓 Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -536,7 +536,7 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
-# The Greatness of Free Software  
+# :tada: 🐧 The Greatness of Free Software  
 
 Free software is more than just an alternative to proprietary software; it is a philosophy that champions user freedom and knowledge sharing. As Richard Stallman said:  
 
@@ -701,7 +701,7 @@ And that is exactly what free software offers us.
 
 ```
 
-# The GNU Project and the Four Freedoms  
+# 🆓 The GNU Project and the Four Freedoms  
 
 The **GNU Project** is the foundation of the free software movement. It was launched in **1983** by **Richard Stallman**, with the goal of creating a completely free operating system that respects user freedoms. This led to the development of the **GNU system**, which, when combined with the **Linux kernel**, forms what we now call **GNU/Linux**.  
 
@@ -888,7 +888,7 @@ What began as a personal hobby became **one of the most important technologies i
 
 ```
 
-# BSD and Its Role in Free Software History  
+# 😈 BSD and Its Role in Free Software History  
 
 The **Berkeley Software Distribution (BSD)** is one of the most important projects in the history of free software. Originating from the **University of California, Berkeley**, BSD began as an enhanced version of **AT&T Unix**, incorporating new tools, networking capabilities, and performance improvements.  
 
