@@ -11,7 +11,7 @@
 ![](./src/header_.png)
 <!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfile; be welcome. My name is Bruno .
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfil be welcome. My name is Bruno
 
 <p>
     <a href="https://github.com/bhza/bhza"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
