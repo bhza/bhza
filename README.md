@@ -276,7 +276,7 @@ In the overview below you'll find my most recent work experience:
 Linguagens & Tecnologias: `Python`, `Javascript`, `C`, `JavaScript`, `Mysql`, `Typescript`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Frontend" src="https://blog.utopicode.io/wp-content/uploads/2023/03/A-Beginners-Guide-to-Front-end-Development_-Skills-Responsibilities-and-Tech-Stack.png"/>](https://github.com/bhza/)
+[<img align="left" height="94px" width="94px" alt="Frontend" src="https://cdn.vectorstock.com/i/500p/39/26/front-end-developer-concept-vector-9273926.jpg"/>](https://github.com/bhza/)
 
 **Frot-end Developer (Free Lancer)** \
 [**Free Lancer**](https://rocketseat.com.br/) • Full-time \
