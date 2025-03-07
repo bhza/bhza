@@ -591,6 +591,8 @@ Some history about what I've been doing and have done since I joined the platfor
 
 ```
 
+</div>
+
 ```TypeScript
 // Check if the code is functioning correctly
 
@@ -614,7 +616,7 @@ while (alive) {
 
 ```
 
-``TypeScript
+``` TypeScript
 
 // Life: An Unscripted Codebase
 
@@ -670,7 +672,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
 <br><br><br><br>
 
 # :tada: 🐧 The Greatness of Free Software  
