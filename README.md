@@ -276,11 +276,11 @@ In the overview below you'll find my most recent work experience:
 Linguagens & Tecnologias: `Python`, `Javascript`, `C`, `JavaScript`, `Mysql`, `Typescript`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Frontend" src="https://blog.utopicode.io/wp-content/uploads/2023/03/A-Beginners-Guide-to-Front-end-Development_-Skills-Responsibilities-and-Tech-Stack.png"/>](https://github.com/bhza/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+**Frot-end Developer (Free Lancer)** \
+[**Free Lancer**](https://rocketseat.com.br/) • Full-time \
+Linguagens & Tecnologias: `CSS3`, `HTML5`, `Figma`, `Javascript`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
