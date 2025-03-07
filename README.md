@@ -164,8 +164,8 @@ _I am open to new opportunities/contributions._
 
 ## 🚀 Personal biography of my journey so far :
 
-> *"Hi, I'm Bruno Henrique Zanchietta De Almeida, a web developer, digital designer, computer technician, system administrator, and network infrastructure specialist.
-> Additionally, I have knowledge in electronics and data science. Currently, I am the curator of the Internet Systems course at FATEC in Lins. With a career focused on technology,
+> *"Hi, I'm Bruno , a web developer, digital designer, computer technician, system administrator, and network infrastructure specialist.
+> Additionally, I have knowledge in electronics and data science. Currently, I am the curator of the Internet Systems course. With a career focused on technology,
 > I am always looking to update and expand my skills. Over the years, I have had the opportunity to work on various projects, ranging from website development to the implementation of complete IT infrastructure solutions.
 > When I'm not coding or designing technological solutions, I enjoy exploring new knowledge and diving into the latest technology trends. I'm passionate about learning and sharing what I know, always seeking new challenges.
 > I am a Brazilian developer with a unique and eclectic trajectory in the world of technology. My journey began in the field of cybersecurity, where I developed a strong foundation in system and network protection.
