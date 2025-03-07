@@ -233,7 +233,7 @@ I found it interesting to know which people visit my profile, since it's a globa
 <br>
 <br>
 
-## ⚠️ Machine Learn
+## ⚠️ Machine Learning
 
 <br>
 
