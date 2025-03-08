@@ -316,6 +316,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/bruno-henrique/) for a 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhza" alt="bhza"></a>
 
+![image](https://github.com/user-attachments/assets/716b587e-e8d2-47d9-aaae-6aad630c72ce)
+
 <br>
 
 ### 🏆 Others trophys :
