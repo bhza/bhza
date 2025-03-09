@@ -407,7 +407,7 @@ If you don't have any questions about my projects or my working methods, you can
 <br>
 <br>
 
-<img src="/github-metrics.svg" alt="Metrics" width="90%">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <br>
 <br>
