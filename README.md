@@ -71,10 +71,10 @@ _I am open to new opportunities/contributions._
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=tokyonight" alt="Bruno Henrique GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&layout=compact&theme=tokyonight">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&theme=tokyonight">
     </td>
   </tr>
 </table>
