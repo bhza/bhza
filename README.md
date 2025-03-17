@@ -1487,7 +1487,7 @@ The GNU General Public License does not permit incorporating your program into p
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
 </p>
 
 <br><br>
