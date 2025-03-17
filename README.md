@@ -7,6 +7,20 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=100&color=006EE6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+;A+Developer" alt="Typing SVG" />
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
+</p>
+
+<br><br>
+
+
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
@@ -749,6 +763,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://komarev.com/ghpvc/?username=bhza&style=social,&color=green&label=Profile%20Views&logo=github" alt="Profile views" width="100%" />
 
 <br><br><br><br>
 
