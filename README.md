@@ -8,16 +8,12 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=100&color=006EE6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+;A+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=100&color=006EE6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+;A+Developer" alt="Typing SVG" />
 </p>
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
-</p>
 
-<br><br>
 
 
 
@@ -764,7 +760,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://komarev.com/ghpvc/?username=bhza&style=social,&color=green&label=Profile%20Views&logo=github" alt="Profile views" width="100%" />
+
 
 <br><br><br><br>
 
@@ -1492,7 +1488,16 @@ You should also get your employer (if you work as a programmer) or school, if an
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
+</p>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bhza&style=social,&color=green&label=Profile%20Views&logo=github" alt="Profile views" width="100%" />
+
+<br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
   
