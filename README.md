@@ -21,10 +21,10 @@
 
 <p>
     <a href="https://github.com/bhza/bhza"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/bhza/bhza/graphs/contributors"><img width=120px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
-    <a href="https://github.com/bhza/bhza/stargazers"><img width=100px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
-    <a href="https://github.com/bhza/bhza/network/members"><img width=100px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
-    <img width=120px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
+    <a href="https://github.com/bhza/bhza/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/bhza/bhza/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/bhza/bhza/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
 <br><br>
