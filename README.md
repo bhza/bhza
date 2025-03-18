@@ -20,11 +20,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfil be welcome.
 
 <p>
-    <a href="https://github.com/bhza/bhza"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/bhza/bhza/graphs/contributors"><img src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
-    <a href="https://github.com/bhza/bhza/stargazers"><img src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
-    <a href="https://github.com/bhza/bhza/network/members"><img src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
+    <a href="https://github.com/bhza/bhza"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/bhza/bhza/graphs/contributors"><img width=120px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/bhza/bhza/stargazers"><img width=100px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/bhza/bhza/network/members"><img width=100px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <img width=120px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
