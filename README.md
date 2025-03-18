@@ -607,9 +607,11 @@ Some history about what I've been doing and have done since I joined the platfor
   
 ##
 <div align="center" fontsize="50px">
+    <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&color=006EE6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+;A+Developer" alt="Typing SVG" />
 </p>
+<br><br><br>
 🔭 I’m currently working on home office.<br>
 📫 How to reach me:bruno.almeida81@fatec.sp.gov.br<br>
 
